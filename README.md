@@ -30,3 +30,7 @@ KTVL2270.20D  [Кацивели](https://gnss.mao.kiev.ua/?q=node/15) (Крым)
 ![](./PRYL2270_iono_free.jpg)
 
 
+### License
+
+Copyright &copy; 2020 IvanKor
+Distributed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
